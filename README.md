@@ -14,6 +14,9 @@ This repository documents the step-by-step process of building an educational ma
 - **classify_areas.py**: Loads `geocoded_points.json`, inspects `address.addresstype` field. Assigns "residential" for "building" or "road" types, "business" for "amenity". Adds `area_type` field to each point.
 - **add_mcdonalds.py**: Searches Nominatim for "McDonald's Winnipeg" (limit 10), reverse geocodes each, adds to dataset with "business" label. Later extended to add 50 Tim Hortons locations to address class imbalance (originally 91 residential vs 19 business).
 
+## Step 3.5: Installing Dependencies
+- Installed scikit-learn and joblib using `pip install --break-system-packages scikit-learn joblib` for machine learning functionality.
+
 ## Step 4: Model Training
 - **train_model.py**: Loads labeled dataset, uses `display_name` as text feature (fallback to `name`). Applies TF-IDF vectorization (max 1000 features) to convert text to numerical vectors. Trains Logistic Regression classifier on 80% of data.
 - Evaluates on 20% holdout set, prints classification report. Saves trained model to `area_classifier.pkl` and vectorizer to `vectorizer.pkl` for later use. Retrained after adding Tim Hortons to improve performance on business class.
@@ -33,11 +36,12 @@ This repository documents the step-by-step process of building an educational ma
 - Model achieves 82% accuracy on test set, better after balancing data.
 
 ## How to Reproduce
-1. Run `python generate_random_points.py` (for training data).
-2. Run `python reverse_geocode_points.py`.
-3. Run `python classify_areas.py`.
-4. Run `python add_mcdonalds.py` (for Tim Hortons).
-5. Run `python train_model.py`.
-6. For testing: `python generate_random_points.py` (modify for test), `python reverse_geocode_points.py`, `python predict_test.py`, `python evaluate_test.py`.
+1. Install dependencies: `pip install scikit-learn joblib`.
+2. Run `python generate_random_points.py` (for training data).
+3. Run `python reverse_geocode_points.py`.
+4. Run `python classify_areas.py`.
+5. Run `python add_mcdonalds.py` (for Tim Hortons).
+6. Run `python train_model.py`.
+7. For testing: `python generate_random_points.py` (modify for test), `python reverse_geocode_points.py`, `python predict_test.py`, `python evaluate_test.py`.
 
 This process demonstrates data collection, preprocessing, labeling, training, and evaluation in ML for text classification.
