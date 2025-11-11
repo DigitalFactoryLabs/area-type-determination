@@ -1,0 +1,3676 @@
+[
+  {
+    "lat": 49.949212,
+    "lon": -97.016988,
+    "address": {
+      "place_id": 348946487,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 159275870,
+      "lat": "49.9515373",
+      "lon": "-97.0144315",
+      "class": "leisure",
+      "type": "golf_course",
+      "place_rank": 30,
+      "importance": 4.3157854581475816e-05,
+      "addresstype": "leisure",
+      "name": "The Meadows at East St. Paul Golf Course",
+      "display_name": "The Meadows at East St. Paul Golf Course, Norris Road, Kil-Cona Park, North Kildonan, Winnipeg, Rural Municipality of East St. Paul, Manitoba, R2G 4J4, Canada",
+      "address": {
+        "leisure": "The Meadows at East St. Paul Golf Course",
+        "road": "Norris Road",
+        "suburb": "Kil-Cona Park",
+        "city_district": "North Kildonan",
+        "city": "Winnipeg",
+        "municipality": "Rural Municipality of East St. Paul",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2G 4J4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9451957",
+        "49.9570456",
+        "-97.0256059",
+        "-97.0019581"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.785408,
+    "lon": -97.207247,
+    "address": {
+      "place_id": 348981456,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 407014405,
+      "lat": "49.7856592",
+      "lon": "-97.2069373",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Cherrywood Road",
+      "display_name": "Cherrywood Road, Bridgwater Trails, Waverley West, Winnipeg, Manitoba, R3Y 1S4, Canada",
+      "address": {
+        "road": "Cherrywood Road",
+        "neighbourhood": "Bridgwater Trails",
+        "suburb": "Waverley West",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3Y 1S4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7847434",
+        "49.7901350",
+        "-97.2084229",
+        "-97.1994219"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.72615,
+    "lon": -97.29807,
+    "address": {
+      "place_id": 347923459,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 199743800,
+      "lat": "49.7238315",
+      "lon": "-97.2980784",
+      "class": "highway",
+      "type": "path",
+      "place_rank": 27,
+      "importance": 0.04004286793316547,
+      "addresstype": "road",
+      "name": "Snoman Trail",
+      "display_name": "Snoman Trail, La Salle, Rural Municipality of Macdonald, Manitoba, Canada",
+      "address": {
+        "road": "Snoman Trail",
+        "town": "La Salle",
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.6207296",
+        "49.7416180",
+        "-97.3225498",
+        "-97.2585290"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.873535,
+    "lon": -97.264844,
+    "address": {
+      "place_id": 408980114,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1393704085,
+      "lat": "49.8736254",
+      "lon": "-97.2643549",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "157, Lake Street, Birchwood, St. James, Winnipeg, Manitoba, R3J 0P2, Canada",
+      "address": {
+        "house_number": "157",
+        "road": "Lake Street",
+        "suburb": "Birchwood",
+        "city_district": "St. James",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3J 0P2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8735457",
+        "49.8736659",
+        "-97.2644527",
+        "-97.2642571"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.939224,
+    "lon": -96.973369,
+    "address": {
+      "place_id": 345144571,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 971393033,
+      "lat": "49.9399327",
+      "lon": "-96.9720401",
+      "class": "highway",
+      "type": "path",
+      "place_rank": 27,
+      "importance": 0.0400433806363012,
+      "addresstype": "road",
+      "name": "Provincial Snowmobile Trail",
+      "display_name": "Provincial Snowmobile Trail, St. Vital Perimeter South, St. Norbert - Seine River, Winnipeg, Rural Municipality of East St. Paul, Rural Municipality of Springfield, Manitoba, R5T 0H3, Canada",
+      "address": {
+        "road": "Provincial Snowmobile Trail",
+        "suburb": "St. Vital Perimeter South",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "municipality": "Rural Municipality of East St. Paul",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R5T 0H3",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7427695",
+        "50.0117044",
+        "-97.1260432",
+        "-96.9506477"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.830157,
+    "lon": -97.209044,
+    "address": {
+      "place_id": 409586498,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 615904100,
+      "lat": "49.8304705",
+      "lon": "-97.2085684",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "1400, Kenaston Boulevard, Linden Woods, Charleswood - Tuxedo - Westwood, Winnipeg, Manitoba, R3P 0R7, Canada",
+      "address": {
+        "house_number": "1400",
+        "road": "Kenaston Boulevard",
+        "suburb": "Linden Woods",
+        "city_district": "Charleswood - Tuxedo - Westwood",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3P 0R7",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8302378",
+        "49.8308659",
+        "-97.2090397",
+        "-97.2081371"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.769934,
+    "lon": -97.347615,
+    "address": {
+      "place_id": 347669542,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 476556132,
+      "lat": "49.7683952",
+      "lon": "-97.3476170",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05337620126649878,
+      "addresstype": "road",
+      "name": "Red Coat Trail",
+      "display_name": "Red Coat Trail, Oak Bluff, Rural Municipality of Macdonald, Manitoba, R4G 0B2, Canada",
+      "address": {
+        "road": "Red Coat Trail",
+        "village": "Oak Bluff",
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4G 0B2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7683457",
+        "49.7684214",
+        "-97.3680590",
+        "-97.3318838"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.918258,
+    "lon": -97.348281,
+    "address": {
+      "place_id": 348499132,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 3324546,
+      "lat": "49.8680870",
+      "lon": "-97.3910520",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.3922544762110891,
+      "addresstype": "municipality",
+      "name": "Rural Municipality of Headingley",
+      "display_name": "Rural Municipality of Headingley, Manitoba, Canada",
+      "address": {
+        "municipality": "Rural Municipality of Headingley",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8057760",
+        "49.9273386",
+        "-97.4543103",
+        "-97.3198023"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.731769,
+    "lon": -97.176781,
+    "address": {
+      "place_id": 349419453,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 90636899,
+      "lat": "49.7317755",
+      "lon": "-97.1794365",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Rue Waverley Street",
+      "display_name": "Rue Waverley Street, La Barrière, St. Norbert - Seine River, Winnipeg, Rural Municipality of Ritchot, Manitoba, R3Y 1Z8, Canada",
+      "address": {
+        "road": "Rue Waverley Street",
+        "suburb": "La Barrière",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3Y 1Z8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7230111",
+        "49.7662354",
+        "-97.1794451",
+        "-97.1724886"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.801333,
+    "lon": -97.100749,
+    "address": {
+      "place_id": 407735999,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1390259833,
+      "lat": "49.8013171",
+      "lon": "-97.1008717",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "700, Paddington Road, River Park South, St. Norbert - Seine River, Winnipeg, Manitoba, R2N 1R1, Canada",
+      "address": {
+        "house_number": "700",
+        "road": "Paddington Road",
+        "neighbourhood": "River Park South",
+        "suburb": "River Park South",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2N 1R1",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8012597",
+        "49.8013745",
+        "-97.1009707",
+        "-97.1007727"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.942535,
+    "lon": -97.229533,
+    "address": {
+      "place_id": 408532724,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 119539563,
+      "lat": "49.9431417",
+      "lon": "-97.2285536",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "1777, Brookside Boulevard, Point Douglas, Winnipeg, Manitoba, R2R 0T8, Canada",
+      "address": {
+        "house_number": "1777",
+        "road": "Brookside Boulevard",
+        "city_district": "Point Douglas",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2R 0T8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9426900",
+        "49.9435706",
+        "-97.2286814",
+        "-97.2284263"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.71816,
+    "lon": -97.107451,
+    "address": {
+      "place_id": 347033955,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 590143889,
+      "lat": "49.7201875",
+      "lon": "-97.1068615",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Meyer Road",
+      "display_name": "Meyer Road, Rural Municipality of Ritchot, Manitoba, R5A 1A4, Canada",
+      "address": {
+        "road": "Meyer Road",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R5A 1A4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7194661",
+        "49.7259013",
+        "-97.1199802",
+        "-97.0914549"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.760686,
+    "lon": -97.191152,
+    "address": {
+      "place_id": 349597232,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 41204415,
+      "lat": "49.7615173",
+      "lon": "-97.1914434",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "La Barrière, St. Norbert - Seine River, Winnipeg, Manitoba, R3Y 1Z8, Canada",
+      "address": {
+        "suburb": "La Barrière",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3Y 1Z8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7587263",
+        "49.7616921",
+        "-97.1994061",
+        "-97.1909448"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.805761,
+    "lon": -96.952848,
+    "address": {
+      "place_id": 346789710,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 169138147,
+      "lat": "49.8056848",
+      "lon": "-96.9584011",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05337671396963451,
+      "addresstype": "road",
+      "name": "Road 22 E",
+      "display_name": "Road 22 E, Rural Municipality of Springfield, Manitoba, R3X 1Z6, Canada",
+      "address": {
+        "road": "Road 22 E",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 1Z6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7974356",
+        "49.8120948",
+        "-96.9584890",
+        "-96.9582769"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.879031,
+    "lon": -97.201251,
+    "address": {
+      "place_id": 349369831,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 11272224734,
+      "lat": "49.8789915",
+      "lon": "-97.2012461",
+      "class": "place",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "place",
+      "name": "",
+      "display_name": "12, Richmond Way, West Wolseley, St. James, Winnipeg, Manitoba, R3J 3J4, Canada",
+      "address": {
+        "house_number": "12",
+        "road": "Richmond Way",
+        "neighbourhood": "West Wolseley",
+        "city_district": "St. James",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3J 3J4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8789415",
+        "49.8790415",
+        "-97.2012961",
+        "-97.2011961"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.723032,
+    "lon": -97.033271,
+    "address": {
+      "place_id": 350172827,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 167687673,
+      "lat": "49.7237886",
+      "lon": "-97.0332628",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Van Gorp Road",
+      "display_name": "Van Gorp Road, Ile des Chenes, Rural Municipality of Ritchot, Manitoba, Canada",
+      "address": {
+        "road": "Van Gorp Road",
+        "town": "Ile des Chenes",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7237709",
+        "49.7239731",
+        "-97.0662882",
+        "-97.0263148"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.783922,
+    "lon": -97.260705,
+    "address": {
+      "place_id": 348117462,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 14502360,
+      "lat": "49.6803977",
+      "lon": "-97.4474138",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.3918112304639682,
+      "addresstype": "county",
+      "name": "Rural Municipality of Macdonald",
+      "display_name": "Rural Municipality of Macdonald, Manitoba, Canada",
+      "address": {
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.5320656",
+        "49.8144423",
+        "-97.7325156",
+        "-97.1622508"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.824164,
+    "lon": -97.11467,
+    "address": {
+      "place_id": 416592729,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1066417193,
+      "lat": "49.8239304",
+      "lon": "-97.1146157",
+      "class": "amenity",
+      "type": "bank",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "amenity",
+      "name": "RBC Royal Bank",
+      "display_name": "RBC Royal Bank, 1550, Saint Mary's Road, Minnetonka, St. Vital, Winnipeg, Manitoba, R2M 3W4, Canada",
+      "address": {
+        "amenity": "RBC Royal Bank",
+        "house_number": "1550",
+        "road": "Saint Mary's Road",
+        "suburb": "Minnetonka",
+        "city_district": "St. Vital",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2M 3W4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8237084",
+        "49.8241523",
+        "-97.1147705",
+        "-97.1144610"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.907979,
+    "lon": -97.338142,
+    "address": {
+      "place_id": 418224409,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 471358131,
+      "lat": "49.9113513",
+      "lon": "-97.3411695",
+      "class": "military",
+      "type": "range",
+      "place_rank": 30,
+      "importance": 5.000152590214416e-05,
+      "addresstype": "military",
+      "name": "Saint Charles Rifle Range",
+      "display_name": "Saint Charles Rifle Range, Saskatchewan Avenue, Rural Municipality of Headingley, Manitoba, R4H 1C8, Canada",
+      "address": {
+        "military": "Saint Charles Rifle Range",
+        "road": "Saskatchewan Avenue",
+        "municipality": "Rural Municipality of Headingley",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4H 1C8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8987298",
+        "49.9272426",
+        "-97.3499537",
+        "-97.3325730"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.934253,
+    "lon": -97.244718,
+    "address": {
+      "place_id": 345117935,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 93793948,
+      "lat": "49.9385093",
+      "lon": "-97.2435325",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053388335240711036,
+      "addresstype": "road",
+      "name": "Bergen Cutoff Road",
+      "display_name": "Bergen Cutoff Road, Rural Municipality of Rosser, Manitoba, R4B 0A6, Canada",
+      "address": {
+        "road": "Bergen Cutoff Road",
+        "county": "Rural Municipality of Rosser",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4B 0A6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9374000",
+        "49.9405901",
+        "-97.2476597",
+        "-97.2359533"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.923564,
+    "lon": -97.140492,
+    "address": {
+      "place_id": 391030684,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1329433279,
+      "lat": "49.9235205",
+      "lon": "-97.1404647",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "383, Andrews Street, St. John’s, Mynarski, Winnipeg, Manitoba, R2W 1W2, Canada",
+      "address": {
+        "house_number": "383",
+        "road": "Andrews Street",
+        "neighbourhood": "St. John’s",
+        "suburb": "Mynarski",
+        "city_district": "Mynarski",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2W 1W2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9234709",
+        "49.9235701",
+        "-97.1405619",
+        "-97.1403676"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.967989,
+    "lon": -97.128955,
+    "address": {
+      "place_id": 349883061,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1313895137,
+      "lat": "49.9676887",
+      "lon": "-97.1290929",
+      "class": "highway",
+      "type": "tertiary",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Murray Avenue",
+      "display_name": "Murray Avenue, Rosser–Old Kildonan, Old Kildonan, Winnipeg, Manitoba, R2P 2V4, Canada",
+      "address": {
+        "road": "Murray Avenue",
+        "neighbourhood": "Rosser–Old Kildonan",
+        "city_district": "Old Kildonan",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2P 2V4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9623033",
+        "49.9688412",
+        "-97.1315389",
+        "-97.1172415"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.938669,
+    "lon": -97.280463,
+    "address": {
+      "place_id": 349308616,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 587755376,
+      "lat": "49.9382001",
+      "lon": "-97.2810788",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.053388335240711036,
+      "addresstype": "road",
+      "name": "Rosser Road",
+      "display_name": "Rosser Road, Rural Municipality of Rosser, Manitoba, R4B 0A4, Canada",
+      "address": {
+        "road": "Rosser Road",
+        "county": "Rural Municipality of Rosser",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4B 0A4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9368369",
+        "49.9393256",
+        "-97.2816306",
+        "-97.2793313"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.870916,
+    "lon": -97.044474,
+    "address": {
+      "place_id": 407088289,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 32685811,
+      "lat": "49.8662704",
+      "lon": "-97.0463612",
+      "class": "railway",
+      "type": "yard",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "railway",
+      "name": "Symington Yards",
+      "display_name": "Symington Yards, Autumn Way, St. Boniface Industrial Park, Transcona, Winnipeg, Rural Municipality of Springfield, Manitoba, R2J 3R7, Canada",
+      "address": {
+        "railway": "Symington Yards",
+        "road": "Autumn Way",
+        "suburb": "St. Boniface Industrial Park",
+        "city_district": "Transcona",
+        "city": "Winnipeg",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2J 3R7",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8555344",
+        "49.8781309",
+        "-97.0714685",
+        "-97.0227767"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.928125,
+    "lon": -97.177623,
+    "address": {
+      "place_id": 406682361,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1336054966,
+      "lat": "49.9281184",
+      "lon": "-97.1775746",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "1327, Manitoba Avenue, Shaughnessy Park, Point Douglas, Winnipeg, Manitoba, R2X 2H8, Canada",
+      "address": {
+        "house_number": "1327",
+        "road": "Manitoba Avenue",
+        "neighbourhood": "Shaughnessy Park",
+        "city_district": "Point Douglas",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2X 2H8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9280581",
+        "49.9281787",
+        "-97.1776540",
+        "-97.1774953"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.865676,
+    "lon": -97.247979,
+    "address": {
+      "place_id": 346302491,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 25261082,
+      "lat": "49.8658691",
+      "lon": "-97.2501001",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Chalfont Road",
+      "display_name": "Chalfont Road, Varsity View, Charleswood - Tuxedo - Westwood, Winnipeg, Manitoba, R3R 0C2, Canada",
+      "address": {
+        "road": "Chalfont Road",
+        "neighbourhood": "Varsity View",
+        "suburb": "Varsity View",
+        "city_district": "Charleswood - Tuxedo - Westwood",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3R 0C2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8548019",
+        "49.8679789",
+        "-97.2541633",
+        "-97.2498959"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.804581,
+    "lon": -97.26582,
+    "address": {
+      "place_id": 348117462,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 14502360,
+      "lat": "49.6803977",
+      "lon": "-97.4474138",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.3918112304639682,
+      "addresstype": "county",
+      "name": "Rural Municipality of Macdonald",
+      "display_name": "Rural Municipality of Macdonald, Manitoba, Canada",
+      "address": {
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.5320656",
+        "49.8144423",
+        "-97.7325156",
+        "-97.1622508"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.96877,
+    "lon": -97.018852,
+    "address": {
+      "place_id": 349530580,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 256252219,
+      "lat": "49.9695050",
+      "lon": "-97.0186893",
+      "class": "building",
+      "type": "industrial",
+      "place_rank": 30,
+      "importance": 4.3157854581475816e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "140, Raleigh Street, Birds Hill, Rural Municipality of East St. Paul, Manitoba, R2E 0B2, Canada",
+      "address": {
+        "house_number": "140",
+        "road": "Raleigh Street",
+        "village": "Birds Hill",
+        "municipality": "Rural Municipality of East St. Paul",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2E 0B2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9692592",
+        "49.9696826",
+        "-97.0190394",
+        "-97.0182324"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.783608,
+    "lon": -96.950966,
+    "address": {
+      "place_id": 347138040,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 198987305,
+      "lat": "49.7828136",
+      "lon": "-96.9509703",
+      "class": "highway",
+      "type": "path",
+      "place_rank": 27,
+      "importance": 0.04004367513542381,
+      "addresstype": "road",
+      "name": "Snoman Trail",
+      "display_name": "Snoman Trail, Ile des Chenes, Rural Municipality of Taché, Manitoba, Canada",
+      "address": {
+        "road": "Snoman Trail",
+        "town": "Ile des Chenes",
+        "county": "Rural Municipality of Taché",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.6936442",
+        "49.8169314",
+        "-97.0208406",
+        "-96.9349867"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.911611,
+    "lon": -97.306592,
+    "address": {
+      "place_id": 346723087,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1313704170,
+      "lat": "49.9117235",
+      "lon": "-97.3072645",
+      "class": "amenity",
+      "type": "parking",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "Summit Road, Saskatchewan North, St. James, Winnipeg, Manitoba, R2Y 0H7, Canada",
+      "address": {
+        "road": "Summit Road",
+        "suburb": "Saskatchewan North",
+        "city_district": "St. James",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2Y 0H7",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9113761",
+        "49.9120761",
+        "-97.3078530",
+        "-97.3066814"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.83579,
+    "lon": -97.161889,
+    "address": {
+      "place_id": 406922584,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 276299179,
+      "lat": "49.8357948",
+      "lon": "-97.1617656",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "37, Farwell Bay, Maybank, Fort Garry North, River Heights - Fort Garry, Winnipeg, Manitoba, R3T 0S4, Canada",
+      "address": {
+        "house_number": "37",
+        "road": "Farwell Bay",
+        "neighbourhood": "Maybank",
+        "suburb": "Fort Garry North",
+        "city_district": "River Heights - Fort Garry",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3T 0S4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8357092",
+        "49.8358523",
+        "-97.1619013",
+        "-97.1616298"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.78226,
+    "lon": -97.224558,
+    "address": {
+      "place_id": 347174561,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 146244188,
+      "lat": "49.7829104",
+      "lon": "-97.2245563",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337620126649878,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "Bridgwater Trails, Waverley West, Winnipeg, Rural Municipality of Macdonald, Manitoba, R3Y 2G3, Canada",
+      "address": {
+        "neighbourhood": "Bridgwater Trails",
+        "suburb": "Waverley West",
+        "city": "Winnipeg",
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3Y 2G3",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7828818",
+        "49.7829423",
+        "-97.2312396",
+        "-97.2137657"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.956519,
+    "lon": -97.194399,
+    "address": {
+      "place_id": 394298837,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1338464369,
+      "lat": "49.9565264",
+      "lon": "-97.1945463",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "50, Khalsa Street, Mandalay West, Old Kildonan, Winnipeg, Manitoba, R2R 2R8, Canada",
+      "address": {
+        "house_number": "50",
+        "road": "Khalsa Street",
+        "neighbourhood": "Mandalay West",
+        "city_district": "Old Kildonan",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2R 2R8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9564948",
+        "49.9565989",
+        "-97.1946750",
+        "-97.1944176"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.781914,
+    "lon": -97.028313,
+    "address": {
+      "place_id": 350834156,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 160175673,
+      "lat": "49.7827668",
+      "lon": "-97.0283092",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Carriere Road",
+      "display_name": "Carriere Road, Grande Pointe, Rural Municipality of Ritchot, Manitoba, R3X 0K5, Canada",
+      "address": {
+        "road": "Carriere Road",
+        "village": "Grande Pointe",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 0K5",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7827629",
+        "49.7828792",
+        "-97.0425630",
+        "-97.0274335"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.913047,
+    "lon": -97.33739,
+    "address": {
+      "place_id": 418224409,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 471358131,
+      "lat": "49.9113513",
+      "lon": "-97.3411695",
+      "class": "military",
+      "type": "range",
+      "place_rank": 30,
+      "importance": 5.000152590214416e-05,
+      "addresstype": "military",
+      "name": "Saint Charles Rifle Range",
+      "display_name": "Saint Charles Rifle Range, Saskatchewan Avenue, Rural Municipality of Headingley, Manitoba, R4H 1C8, Canada",
+      "address": {
+        "military": "Saint Charles Rifle Range",
+        "road": "Saskatchewan Avenue",
+        "municipality": "Rural Municipality of Headingley",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4H 1C8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8987298",
+        "49.9272426",
+        "-97.3499537",
+        "-97.3325730"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.879482,
+    "lon": -97.169375,
+    "address": {
+      "place_id": 347860484,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1014459361,
+      "lat": "49.8795491",
+      "lon": "-97.1694954",
+      "class": "building",
+      "type": "detached",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "71, Arlington Street, Wolseley, West End, Daniel McIntyre, Winnipeg, Manitoba, R3G 1B3, Canada",
+      "address": {
+        "house_number": "71",
+        "road": "Arlington Street",
+        "neighbourhood": "Wolseley",
+        "suburb": "West End",
+        "city_district": "Daniel McIntyre",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3G 1B3",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8795071",
+        "49.8795912",
+        "-97.1696066",
+        "-97.1694105"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.864786,
+    "lon": -97.100059,
+    "address": {
+      "place_id": 390377763,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1336353387,
+      "lat": "49.8647429",
+      "lon": "-97.1000445",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "180, Avenue Imperial Avenue, Glenwood, St. Vital, Winnipeg, Manitoba, R2M 0H9, Canada",
+      "address": {
+        "house_number": "180",
+        "road": "Avenue Imperial Avenue",
+        "neighbourhood": "Glenwood",
+        "city_district": "St. Vital",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2M 0H9",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8646938",
+        "49.8647919",
+        "-97.1001190",
+        "-97.0999699"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.892412,
+    "lon": -97.249436,
+    "address": {
+      "place_id": 350833686,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 96584343,
+      "lat": "49.8960127",
+      "lon": "-97.2494116",
+      "class": "military",
+      "type": "airfield",
+      "place_rank": 30,
+      "importance": 0.37140310668685417,
+      "addresstype": "military",
+      "name": "CFB Winnipeg",
+      "display_name": "CFB Winnipeg, Fifth Avenue, St. James–Brooklands–Weston, Airport, St. James, Winnipeg, Manitoba, R3J 3T3, Canada",
+      "address": {
+        "military": "CFB Winnipeg",
+        "road": "Fifth Avenue",
+        "suburb": "St. James–Brooklands–Weston",
+        "city_district": "St. James",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3J 3T3",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8888552",
+        "49.9034915",
+        "-97.2534241",
+        "-97.2332458"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.835104,
+    "lon": -97.338718,
+    "address": {
+      "place_id": 349574968,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1190041339,
+      "lat": "49.8377090",
+      "lon": "-97.3388342",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.053383334859235486,
+      "addresstype": "road",
+      "name": "Wilkes Avenue",
+      "display_name": "Wilkes Avenue, Rural Municipality of Headingley, Manitoba, R4H 0C9, Canada",
+      "address": {
+        "road": "Wilkes Avenue",
+        "municipality": "Rural Municipality of Headingley",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4H 0C9",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8360552",
+        "49.8386591",
+        "-97.4109189",
+        "-97.3267309"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.72772,
+    "lon": -97.111777,
+    "address": {
+      "place_id": 347138604,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 243879343,
+      "lat": "49.7272892",
+      "lon": "-97.1116295",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Marchand Road",
+      "display_name": "Marchand Road, Rural Municipality of Ritchot, Manitoba, R5A 1A4, Canada",
+      "address": {
+        "road": "Marchand Road",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R5A 1A4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7210458",
+        "49.7284853",
+        "-97.1361965",
+        "-97.1062860"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.936886,
+    "lon": -97.169662,
+    "address": {
+      "place_id": 404542510,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 701518909,
+      "lat": "49.9368425",
+      "lon": "-97.1698117",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "1180, Fife Street, Inkster Industrial Park, Point Douglas, Winnipeg, Manitoba, R2X 2Y1, Canada",
+      "address": {
+        "house_number": "1180",
+        "road": "Fife Street",
+        "suburb": "Inkster Industrial Park",
+        "city_district": "Point Douglas",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2X 2Y1",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9365050",
+        "49.9371906",
+        "-97.1704274",
+        "-97.1691632"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.83167,
+    "lon": -97.002132,
+    "address": {
+      "place_id": 347105316,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1301697643,
+      "lat": "49.8316456",
+      "lon": "-97.0041548",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337671396963451,
+      "addresstype": "road",
+      "name": "Symington Road",
+      "display_name": "Symington Road, Rural Municipality of Springfield, Manitoba, R2J 4G8, Canada",
+      "address": {
+        "road": "Symington Road",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2J 4G8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8225390",
+        "49.8415634",
+        "-97.0042092",
+        "-97.0040969"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.715725,
+    "lon": -97.236427,
+    "address": {
+      "place_id": 348173901,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 52561635,
+      "lat": "49.6909481",
+      "lon": "-97.2646544",
+      "class": "place",
+      "type": "town",
+      "place_rank": 18,
+      "importance": 0.16004286793316547,
+      "addresstype": "town",
+      "name": "La Salle",
+      "display_name": "La Salle, Rural Municipality of Macdonald, Manitoba, Canada",
+      "address": {
+        "town": "La Salle",
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.6509481",
+        "49.7309481",
+        "-97.3046544",
+        "-97.2246544"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.737327,
+    "lon": -97.047207,
+    "address": {
+      "place_id": 349002969,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 159440815,
+      "lat": "49.7357061",
+      "lon": "-97.0466604",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Mondor Road",
+      "display_name": "Mondor Road, Grande Pointe Meadows, Rural Municipality of Ritchot, Manitoba, R0A 0T0, Canada",
+      "address": {
+        "road": "Mondor Road",
+        "residential": "Grande Pointe Meadows",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R0A 0T0",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7348800",
+        "49.7386493",
+        "-97.0491102",
+        "-97.0139198"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.806161,
+    "lon": -97.149972,
+    "address": {
+      "place_id": 401620113,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 132092360,
+      "lat": "49.8064246",
+      "lon": "-97.1471455",
+      "class": "leisure",
+      "type": "sports_centre",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "leisure",
+      "name": "",
+      "display_name": "University Crescent, St. Norbert - Seine River, Winnipeg, Manitoba, R3T 2N2, Canada",
+      "address": {
+        "road": "University Crescent",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3T 2N2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8033750",
+        "49.8095460",
+        "-97.1539029",
+        "-97.1404677"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.928358,
+    "lon": -97.201097,
+    "address": {
+      "place_id": 408532810,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1046613693,
+      "lat": "49.9291483",
+      "lon": "-97.2007404",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "1835, Hekla Avenue, Point Douglas, Winnipeg, Manitoba, R2X 2R9, Canada",
+      "address": {
+        "house_number": "1835",
+        "road": "Hekla Avenue",
+        "city_district": "Point Douglas",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2X 2R9",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9290266",
+        "49.9292702",
+        "-97.2009306",
+        "-97.2005502"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.878543,
+    "lon": -97.286523,
+    "address": {
+      "place_id": 404108336,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1376768970,
+      "lat": "49.8784873",
+      "lon": "-97.2867438",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "489, Daer Boulevard, Kirkfield, Charleswood - Tuxedo - Westwood, Winnipeg, Manitoba, R3K 0Y5, Canada",
+      "address": {
+        "house_number": "489",
+        "road": "Daer Boulevard",
+        "suburb": "Kirkfield",
+        "city_district": "Charleswood - Tuxedo - Westwood",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3K 0Y5",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8784125",
+        "49.8785320",
+        "-97.2868740",
+        "-97.2866156"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.772952,
+    "lon": -97.174492,
+    "address": {
+      "place_id": 396736456,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1351559545,
+      "lat": "49.7725669",
+      "lon": "-97.1743598",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "99, Shahi Street, South Pointe, Waverley West, Winnipeg, Manitoba, R3Y 1Z8, Canada",
+      "address": {
+        "house_number": "99",
+        "road": "Shahi Street",
+        "neighbourhood": "South Pointe",
+        "suburb": "Waverley West",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3Y 1Z8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7724940",
+        "49.7726399",
+        "-97.1744564",
+        "-97.1742632"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.73937,
+    "lon": -97.206803,
+    "address": {
+      "place_id": 389087972,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1335105266,
+      "lat": "49.7383214",
+      "lon": "-97.2067243",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "2200, Rue Des Trappistes Street, La Barrière, St. Norbert - Seine River, Winnipeg, Manitoba, R3Y 1Z8, Canada",
+      "address": {
+        "house_number": "2200",
+        "road": "Rue Des Trappistes Street",
+        "suburb": "La Barrière",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3Y 1Z8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7382127",
+        "49.7384302",
+        "-97.2069228",
+        "-97.2065257"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.936123,
+    "lon": -96.999606,
+    "address": {
+      "place_id": 350102978,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 625862729,
+      "lat": "49.9344258",
+      "lon": "-97.0003774",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337649118791482,
+      "addresstype": "road",
+      "name": "Wenzel Street",
+      "display_name": "Wenzel Street, Rural Municipality of East St. Paul, Rural Municipality of Springfield, Manitoba, R2C 2Z2, Canada",
+      "address": {
+        "road": "Wenzel Street",
+        "municipality": "Rural Municipality of East St. Paul",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2C 2Z2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9304293",
+        "49.9397392",
+        "-97.0021022",
+        "-96.9965290"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.834448,
+    "lon": -96.968307,
+    "address": {
+      "place_id": 345818296,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 588271728,
+      "lat": "49.8358466",
+      "lon": "-96.9680499",
+      "class": "highway",
+      "type": "trunk",
+      "place_rank": 26,
+      "importance": 0.05337671396963451,
+      "addresstype": "road",
+      "name": "Fermor Avenue",
+      "display_name": "Fermor Avenue, Rural Municipality of Springfield, Manitoba, R3X 1Z6, Canada",
+      "address": {
+        "road": "Fermor Avenue",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 1Z6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8344577",
+        "49.8539478",
+        "-97.0070476",
+        "-96.9634286"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.873579,
+    "lon": -97.20881,
+    "address": {
+      "place_id": 348109737,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 9194789740,
+      "lat": "49.8736458",
+      "lon": "-97.2083754",
+      "class": "amenity",
+      "type": "bench",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "Wellington Crescent, Old Tuxedo, Assiniboine Park, Charleswood - Tuxedo - Westwood, Winnipeg, Manitoba, R3J 1N1, Canada",
+      "address": {
+        "road": "Wellington Crescent",
+        "neighbourhood": "Old Tuxedo",
+        "suburb": "Assiniboine Park",
+        "city_district": "Charleswood - Tuxedo - Westwood",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3J 1N1",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8735958",
+        "49.8736958",
+        "-97.2084254",
+        "-97.2083254"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.893,
+    "lon": -97.122342,
+    "address": {
+      "place_id": 389926423,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1037001867,
+      "lat": "49.8929653",
+      "lon": "-97.1222757",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "188, Rue Dumoulin Street, North St. Boniface, St. Boniface, Winnipeg, Manitoba, R2H 0H3, Canada",
+      "address": {
+        "house_number": "188",
+        "road": "Rue Dumoulin Street",
+        "neighbourhood": "North St. Boniface",
+        "suburb": "North St. Boniface",
+        "city_district": "St. Boniface",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2H 0H3",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8929017",
+        "49.8930288",
+        "-97.1223525",
+        "-97.1221990"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.94253,
+    "lon": -97.21974,
+    "address": {
+      "place_id": 394296036,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1337765087,
+      "lat": "49.9425242",
+      "lon": "-97.2196230",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "72, Tallman Street, Tyndall Park, Point Douglas, Winnipeg, Manitoba, R2R 0T8, Canada",
+      "address": {
+        "house_number": "72",
+        "road": "Tallman Street",
+        "neighbourhood": "Tyndall Park",
+        "city_district": "Point Douglas",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2R 0T8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9424920",
+        "49.9425564",
+        "-97.2197227",
+        "-97.2195234"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.902861,
+    "lon": -97.081969,
+    "address": {
+      "place_id": 404398669,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1123174370,
+      "lat": "49.9028976",
+      "lon": "-97.0818836",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "857, Talbot Avenue, East Elmwood, Elmwood - East Kildonan, Winnipeg, Manitoba, R2L 1X9, Canada",
+      "address": {
+        "house_number": "857",
+        "road": "Talbot Avenue",
+        "neighbourhood": "East Elmwood",
+        "suburb": "East Elmwood",
+        "city_district": "Elmwood - East Kildonan",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2L 1X9",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9028560",
+        "49.9029392",
+        "-97.0819564",
+        "-97.0818109"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.911213,
+    "lon": -97.286297,
+    "address": {
+      "place_id": 348279719,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1308294663,
+      "lat": "49.9111125",
+      "lon": "-97.2863539",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Sturgeon Access",
+      "display_name": "Sturgeon Access, Saskatchewan North, St. James, Winnipeg, Manitoba, R2Y 2A9, Canada",
+      "address": {
+        "road": "Sturgeon Access",
+        "suburb": "Saskatchewan North",
+        "city_district": "St. James",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2Y 2A9",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9099593",
+        "49.9120606",
+        "-97.2880275",
+        "-97.2843184"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.776042,
+    "lon": -97.100566,
+    "address": {
+      "place_id": 409281573,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 73681390,
+      "lat": "49.7780237",
+      "lon": "-97.1015831",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "854, Forbes Road, St. Vital Perimeter South, St. Norbert - Seine River, Winnipeg, Manitoba, R2N 4A6, Canada",
+      "address": {
+        "house_number": "854",
+        "road": "Forbes Road",
+        "neighbourhood": "St. Vital Perimeter South",
+        "suburb": "St. Vital Perimeter South",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2N 4A6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7779376",
+        "49.7781034",
+        "-97.1017179",
+        "-97.1014429"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.89157,
+    "lon": -97.136335,
+    "address": {
+      "place_id": 350370966,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 109030726,
+      "lat": "49.8913121",
+      "lon": "-97.1368386",
+      "class": "amenity",
+      "type": "biergarten",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "amenity",
+      "name": "Blue Note Park",
+      "display_name": "Blue Note Park, 220, Main Street, South Portage, Fort Rouge–East Fort Garry, Winnipeg, Manitoba, R3C 1C8, Canada",
+      "address": {
+        "amenity": "Blue Note Park",
+        "house_number": "220",
+        "road": "Main Street",
+        "neighbourhood": "South Portage",
+        "suburb": "Fort Rouge–East Fort Garry",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3C 1C8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8911991",
+        "49.8914699",
+        "-97.1370683",
+        "-97.1365101"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.815089,
+    "lon": -97.102657,
+    "address": {
+      "place_id": 346067731,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1174205326,
+      "lat": "49.8149795",
+      "lon": "-97.1025266",
+      "class": "building",
+      "type": "apartments",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "70, Paddington Road, River Park South, St. Norbert - Seine River, Winnipeg, Manitoba, R2N 1R3, Canada",
+      "address": {
+        "house_number": "70",
+        "road": "Paddington Road",
+        "neighbourhood": "River Park South",
+        "suburb": "River Park South",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2N 1R3",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8147781",
+        "49.8151774",
+        "-97.1026682",
+        "-97.1023953"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.797605,
+    "lon": -97.009629,
+    "address": {
+      "place_id": 346891745,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 154240612,
+      "lat": "49.7974896",
+      "lon": "-97.0096291",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337690318150603,
+      "addresstype": "road",
+      "name": "Prairie Grove Road",
+      "display_name": "Prairie Grove Road, Rural Municipality of Springfield, Manitoba, R3X 1Z6, Canada",
+      "address": {
+        "road": "Prairie Grove Road",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 1Z6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7974356",
+        "49.7974976",
+        "-97.0162121",
+        "-96.9353810"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.716924,
+    "lon": -97.129244,
+    "address": {
+      "place_id": 346565791,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 243594066,
+      "lat": "49.7167771",
+      "lon": "-97.1265485",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Turnbull Drive",
+      "display_name": "Turnbull Drive, St. Norbert - Seine River, St. Adolphe, Rural Municipality of Ritchot, Manitoba, R5A 1A4, Canada",
+      "address": {
+        "road": "Turnbull Drive",
+        "suburb": "Turnbull Drive",
+        "city_district": "St. Norbert - Seine River",
+        "town": "St. Adolphe",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R5A 1A4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.6929112",
+        "49.7488622",
+        "-97.1379439",
+        "-97.1258404"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.827619,
+    "lon": -97.024507,
+    "address": {
+      "place_id": 345854700,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 156386208,
+      "lat": "49.8267908",
+      "lon": "-97.0245067",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337671396963451,
+      "addresstype": "road",
+      "name": "St. Joseph Road",
+      "display_name": "St. Joseph Road, Sage Creek, St. Vital, Winnipeg, Rural Municipality of Springfield, Manitoba, R3X 0K5, Canada",
+      "address": {
+        "road": "St. Joseph Road",
+        "suburb": "Sage Creek",
+        "city_district": "St. Vital",
+        "city": "Winnipeg",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 0K5",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8267899",
+        "49.8268407",
+        "-97.0268608",
+        "-97.0040969"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.731414,
+    "lon": -96.967421,
+    "address": {
+      "place_id": 347198297,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 11940269,
+      "lat": "49.7291246",
+      "lon": "-96.6735096",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.3972123942177393,
+      "addresstype": "county",
+      "name": "Rural Municipality of Taché",
+      "display_name": "Rural Municipality of Taché, Manitoba, Canada",
+      "address": {
+        "county": "Rural Municipality of Taché",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.6195110",
+        "49.7972941",
+        "-96.9813733",
+        "-96.3655213"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.932739,
+    "lon": -96.976014,
+    "address": {
+      "place_id": 350145164,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 13781283,
+      "lat": "49.9325986",
+      "lon": "-96.9761656",
+      "class": "highway",
+      "type": "trunk",
+      "place_rank": 26,
+      "importance": 0.05337671396963451,
+      "addresstype": "road",
+      "name": "Perimeter Highway",
+      "display_name": "Perimeter Highway, Rural Municipality of East St. Paul, Rural Municipality of Springfield, Manitoba, R2C 2Z2, Canada",
+      "address": {
+        "road": "Perimeter Highway",
+        "municipality": "Rural Municipality of East St. Paul",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2C 2Z2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9248112",
+        "49.9393564",
+        "-96.9989888",
+        "-96.9716207"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.872048,
+    "lon": -96.961935,
+    "address": {
+      "place_id": 346722452,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 156392229,
+      "lat": "49.8710953",
+      "lon": "-96.9619353",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337671396963451,
+      "addresstype": "road",
+      "name": "Saint Boniface Road",
+      "display_name": "Saint Boniface Road, Transcona, Winnipeg, Rural Municipality of Springfield, Manitoba, R2C 1L6, Canada",
+      "address": {
+        "road": "Saint Boniface Road",
+        "city_district": "Transcona",
+        "city": "Winnipeg",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2C 1L6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8710947",
+        "49.8711005",
+        "-96.9813211",
+        "-96.9596373"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.795546,
+    "lon": -97.002939,
+    "address": {
+      "place_id": 347351801,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 168178100,
+      "lat": "49.7955499",
+      "lon": "-97.0038307",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "Rural Municipality of Ritchot, Manitoba, Canada",
+      "address": {
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7681400",
+        "49.7974825",
+        "-97.0039103",
+        "-97.0038223"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.956155,
+    "lon": -97.15376,
+    "address": {
+      "place_id": 409588597,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 71793977,
+      "lat": "49.9562839",
+      "lon": "-97.1542306",
+      "class": "amenity",
+      "type": "nursing_home",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "amenity",
+      "name": "Actionmarguerite",
+      "display_name": "Actionmarguerite, 1149, Leila Avenue, Leila North, Old Kildonan, Winnipeg, Manitoba, R2P 2Y2, Canada",
+      "address": {
+        "amenity": "Actionmarguerite",
+        "house_number": "1149",
+        "road": "Leila Avenue",
+        "neighbourhood": "Leila North",
+        "suburb": "Old Kildonan",
+        "city_district": "Old Kildonan",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2P 2Y2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9558585",
+        "49.9566966",
+        "-97.1547167",
+        "-97.1535151"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.760041,
+    "lon": -96.982994,
+    "address": {
+      "place_id": 346620793,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 106215041,
+      "lat": "49.7600375",
+      "lon": "-96.9811552",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337690318150603,
+      "addresstype": "road",
+      "name": "Arnould Road",
+      "display_name": "Arnould Road, Rural Municipality of Taché, Manitoba, R0A 0T0, Canada",
+      "address": {
+        "road": "Arnould Road",
+        "county": "Rural Municipality of Taché",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R0A 0T0",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7386371",
+        "49.7679320",
+        "-96.9811679",
+        "-96.9809439"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.982601,
+    "lon": -97.195095,
+    "address": {
+      "place_id": 402918541,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 3309568,
+      "lat": "50.0044426",
+      "lon": "-97.4067036",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.39869503428092246,
+      "addresstype": "county",
+      "name": "Rural Municipality of Rosser",
+      "display_name": "Rural Municipality of Rosser, Manitoba, Canada",
+      "address": {
+        "county": "Rural Municipality of Rosser",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9165633",
+        "50.0636940",
+        "-97.7348342",
+        "-97.1841104"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.94645,
+    "lon": -97.102246,
+    "address": {
+      "place_id": 347135919,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 102881033,
+      "lat": "49.9463071",
+      "lon": "-97.1023196",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Peguis Drive",
+      "display_name": "Peguis Drive, Mynarski, Winnipeg, Manitoba, R2V 3S5, Canada",
+      "address": {
+        "road": "Peguis Drive",
+        "suburb": "Mynarski",
+        "city_district": "Mynarski",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2V 3S5",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9445203",
+        "49.9465254",
+        "-97.1050234",
+        "-97.0993757"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.855713,
+    "lon": -97.27708,
+    "address": {
+      "place_id": 404765200,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 626336522,
+      "lat": "49.8556929",
+      "lon": "-97.2769416",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "581, Coventry Road, Eric Coy, Charleswood - Tuxedo - Westwood, Winnipeg, Manitoba, R3R 1C4, Canada",
+      "address": {
+        "house_number": "581",
+        "road": "Coventry Road",
+        "neighbourhood": "Eric Coy",
+        "suburb": "Eric Coy",
+        "city_district": "Charleswood - Tuxedo - Westwood",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3R 1C4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8556515",
+        "49.8557929",
+        "-97.2770132",
+        "-97.2768294"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.791807,
+    "lon": -97.117873,
+    "address": {
+      "place_id": 346757818,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 66643174,
+      "lat": "49.7920453",
+      "lon": "-97.1179533",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Frobisher Road",
+      "display_name": "Frobisher Road, Maple Grove Park, St. Norbert - Seine River, Winnipeg, Manitoba, R2N 4A6, Canada",
+      "address": {
+        "road": "Frobisher Road",
+        "suburb": "Maple Grove Park",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2N 4A6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7905807",
+        "49.7928358",
+        "-97.1283101",
+        "-97.1168815"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.891991,
+    "lon": -97.046041,
+    "address": {
+      "place_id": 346817221,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1144497422,
+      "lat": "49.8919507",
+      "lon": "-97.0458583",
+      "class": "building",
+      "type": "detached",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "171, Rougeau Avenue, Mission Gardens, Transcona, Winnipeg, Manitoba, R2C 4Y1, Canada",
+      "address": {
+        "house_number": "171",
+        "road": "Rougeau Avenue",
+        "neighbourhood": "Mission Gardens",
+        "suburb": "Mission Gardens",
+        "city_district": "Transcona",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2C 4Y1",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8918784",
+        "49.8920240",
+        "-97.0459492",
+        "-97.0457682"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.776573,
+    "lon": -97.338295,
+    "address": {
+      "place_id": 345040980,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 478262589,
+      "lat": "49.7756882",
+      "lon": "-97.3368076",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337620126649878,
+      "addresstype": "road",
+      "name": "Bur Oak Boulevard",
+      "display_name": "Bur Oak Boulevard, Oak Bluff, Rural Municipality of Macdonald, Manitoba, R4G 0B2, Canada",
+      "address": {
+        "road": "Bur Oak Boulevard",
+        "village": "Oak Bluff",
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4G 0B2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7737118",
+        "49.7788137",
+        "-97.3379425",
+        "-97.3338778"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.923936,
+    "lon": -97.071714,
+    "address": {
+      "place_id": 396620247,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1046956796,
+      "lat": "49.9239060",
+      "lon": "-97.0715932",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "215, Reay Crescent, Valley Gardens, Elmwood - East Kildonan, Winnipeg, Manitoba, R2K 4C1, Canada",
+      "address": {
+        "house_number": "215",
+        "road": "Reay Crescent",
+        "neighbourhood": "Valley Gardens",
+        "suburb": "Valley Gardens",
+        "city_district": "Elmwood - East Kildonan",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2K 4C1",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9238425",
+        "49.9239693",
+        "-97.0717031",
+        "-97.0714832"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.729439,
+    "lon": -97.348892,
+    "address": {
+      "place_id": 348117462,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 14502360,
+      "lat": "49.6803977",
+      "lon": "-97.4474138",
+      "class": "boundary",
+      "type": "administrative",
+      "place_rank": 12,
+      "importance": 0.3918112304639682,
+      "addresstype": "county",
+      "name": "Rural Municipality of Macdonald",
+      "display_name": "Rural Municipality of Macdonald, Manitoba, Canada",
+      "address": {
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.5320656",
+        "49.8144423",
+        "-97.7325156",
+        "-97.1622508"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.748198,
+    "lon": -97.243719,
+    "address": {
+      "place_id": 349590750,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 587610766,
+      "lat": "49.7494023",
+      "lon": "-97.2460811",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05337620126649878,
+      "addresstype": "road",
+      "name": "Provincial Road 330",
+      "display_name": "Provincial Road 330, La Salle, Rural Municipality of Macdonald, Manitoba, Canada",
+      "address": {
+        "road": "Provincial Road 330",
+        "town": "La Salle",
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.6987352",
+        "49.7675772",
+        "-97.2601962",
+        "-97.2313637"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.801692,
+    "lon": -97.041689,
+    "address": {
+      "place_id": 349389719,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 13787544,
+      "lat": "49.8016657",
+      "lon": "-97.0430577",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Highway 59",
+      "display_name": "Highway 59, St. Vital Perimeter South, St. Norbert - Seine River, Winnipeg, Rural Municipality of Ritchot, Manitoba, R3X 0J6, Canada",
+      "address": {
+        "road": "Highway 59",
+        "suburb": "St. Vital Perimeter South",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 0J6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7945543",
+        "49.8151673",
+        "-97.0460544",
+        "-97.0394901"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.980562,
+    "lon": -97.224857,
+    "address": {
+      "place_id": 348118167,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 32773246,
+      "lat": "49.9810297",
+      "lon": "-97.2248561",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053388335240711036,
+      "addresstype": "road",
+      "name": "Mayberry Street",
+      "display_name": "Mayberry Street, Rural Municipality of Rosser, Manitoba, R4B 0A3, Canada",
+      "address": {
+        "road": "Mayberry Street",
+        "county": "Rural Municipality of Rosser",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4B 0A3",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9810276",
+        "49.9810590",
+        "-97.2284900",
+        "-97.2068560"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.727382,
+    "lon": -97.041056,
+    "address": {
+      "place_id": 350172827,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 167687673,
+      "lat": "49.7238706",
+      "lon": "-97.0410914",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Van Gorp Road",
+      "display_name": "Van Gorp Road, Ile des Chenes, Rural Municipality of Ritchot, Manitoba, Canada",
+      "address": {
+        "road": "Van Gorp Road",
+        "town": "Ile des Chenes",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7237709",
+        "49.7239731",
+        "-97.0662882",
+        "-97.0263148"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.914957,
+    "lon": -97.07148,
+    "address": {
+      "place_id": 396620578,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1123221325,
+      "lat": "49.9149589",
+      "lon": "-97.0715335",
+      "class": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "965, Concordia Avenue, Valley Gardens, Elmwood - East Kildonan, Winnipeg, Manitoba, R2K 2M6, Canada",
+      "address": {
+        "house_number": "965",
+        "road": "Concordia Avenue",
+        "neighbourhood": "Valley Gardens",
+        "suburb": "Valley Gardens",
+        "city_district": "Elmwood - East Kildonan",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2K 2M6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9147672",
+        "49.9151774",
+        "-97.0720629",
+        "-97.0710428"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.838349,
+    "lon": -97.202852,
+    "address": {
+      "place_id": 346663659,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 3736346,
+      "lat": "49.8391884",
+      "lon": "-97.2045200",
+      "class": "amenity",
+      "type": "parking",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "amenity",
+      "name": "",
+      "display_name": "Lowson Crescent, Charleswood - Tuxedo - Westwood, Winnipeg, Manitoba, R3P 0R7, Canada",
+      "address": {
+        "road": "Lowson Crescent",
+        "city_district": "Charleswood - Tuxedo - Westwood",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3P 0R7",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8389575",
+        "49.8394326",
+        "-97.2057505",
+        "-97.2033226"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.800822,
+    "lon": -96.96633,
+    "address": {
+      "place_id": 346891657,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 154240557,
+      "lat": "49.8010736",
+      "lon": "-96.9661324",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337690318150603,
+      "addresstype": "road",
+      "name": "Dawson Road",
+      "display_name": "Dawson Road, Rural Municipality of Springfield, Manitoba, R3X 1Z6, Canada",
+      "address": {
+        "road": "Dawson Road",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 1Z6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7728080",
+        "49.8131342",
+        "-96.9812682",
+        "-96.9349631"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.811428,
+    "lon": -97.276662,
+    "address": {
+      "place_id": 347645995,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 590759612,
+      "lat": "49.8114276",
+      "lon": "-97.2767306",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337620126649878,
+      "addresstype": "road",
+      "name": "Wyper Road",
+      "display_name": "Wyper Road, Wilkes South, Charleswood - Tuxedo - Westwood, Winnipeg, Manitoba, R3R 3S5, Canada",
+      "address": {
+        "road": "Wyper Road",
+        "suburb": "Wilkes South",
+        "city_district": "Charleswood - Tuxedo - Westwood",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3R 3S5",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8107936",
+        "49.8126302",
+        "-97.2995814",
+        "-97.2704199"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.95218,
+    "lon": -96.95024,
+    "address": {
+      "place_id": 348946235,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 469052700,
+      "lat": "49.9558944",
+      "lon": "-96.9504526",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337671396963451,
+      "addresstype": "road",
+      "name": "Sylvan Road",
+      "display_name": "Sylvan Road, Rural Municipality of Springfield, Manitoba, R0E 1J0, Canada",
+      "address": {
+        "road": "Sylvan Road",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R0E 1J0",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9558599",
+        "49.9559427",
+        "-96.9515470",
+        "-96.9503454"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.732415,
+    "lon": -97.18999,
+    "address": {
+      "place_id": 347652639,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 476025267,
+      "lat": "49.7322940",
+      "lon": "-97.1899474",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "La Barrière, St. Norbert - Seine River, Winnipeg, Manitoba, R3Y 1Z8, Canada",
+      "address": {
+        "suburb": "La Barrière",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3Y 1Z8",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7287262",
+        "49.7360071",
+        "-97.2000871",
+        "-97.1794262"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.80971,
+    "lon": -97.293824,
+    "address": {
+      "place_id": 347645995,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 590759612,
+      "lat": "49.8108283",
+      "lon": "-97.2938221",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337620126649878,
+      "addresstype": "road",
+      "name": "Wyper Road",
+      "display_name": "Wyper Road, Wilkes South, Charleswood - Tuxedo - Westwood, Winnipeg, Manitoba, R3R 3S5, Canada",
+      "address": {
+        "road": "Wyper Road",
+        "suburb": "Wilkes South",
+        "city_district": "Charleswood - Tuxedo - Westwood",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3R 3S5",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8107936",
+        "49.8126302",
+        "-97.2995814",
+        "-97.2704199"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.823752,
+    "lon": -97.047391,
+    "address": {
+      "place_id": 416156825,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1425258260,
+      "lat": "49.8237370",
+      "lon": "-97.0481405",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05340571984435794,
+      "addresstype": "road",
+      "name": "Bullrush Bay",
+      "display_name": "Bullrush Bay, Sage Creek, St. Vital, Winnipeg, Manitoba, R3X 0J6, Canada",
+      "address": {
+        "road": "Bullrush Bay",
+        "suburb": "Sage Creek",
+        "city_district": "St. Vital",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 0J6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8229305",
+        "49.8251110",
+        "-97.0481636",
+        "-97.0447088"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.751571,
+    "lon": -97.019326,
+    "address": {
+      "place_id": 348977450,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 168175860,
+      "lat": "49.7514294",
+      "lon": "-97.0197848",
+      "class": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Highway 59",
+      "display_name": "Highway 59, Ile des Chenes, Rural Municipality of Ritchot, Manitoba, Canada",
+      "address": {
+        "road": "Highway 59",
+        "town": "Ile des Chenes",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7238210",
+        "49.7860877",
+        "-97.0273650",
+        "-97.0038084"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.9646,
+    "lon": -97.2627,
+    "address": {
+      "place_id": 349913771,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 103686522,
+      "lat": "49.9607453",
+      "lon": "-97.2627016",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053388335240711036,
+      "addresstype": "road",
+      "name": "Farmer Road",
+      "display_name": "Farmer Road, Rural Municipality of Rosser, Manitoba, R4B 0A4, Canada",
+      "address": {
+        "road": "Farmer Road",
+        "county": "Rural Municipality of Rosser",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4B 0A4",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9607125",
+        "49.9608455",
+        "-97.2755016",
+        "-97.2439342"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.954922,
+    "lon": -96.986172,
+    "address": {
+      "place_id": 347639933,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 179703543,
+      "lat": "49.9553780",
+      "lon": "-96.9850508",
+      "class": "highway",
+      "type": "cycleway",
+      "place_rank": 27,
+      "importance": 0.0400433806363012,
+      "addresstype": "road",
+      "name": "Duff Roblin Parkway Trail",
+      "display_name": "Duff Roblin Parkway Trail, St. Vital Perimeter South, St. Norbert - Seine River, Winnipeg, Rural Municipality of Springfield, Manitoba, R3X 1Z6, Canada",
+      "address": {
+        "road": "Duff Roblin Parkway Trail",
+        "suburb": "St. Vital Perimeter South",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "county": "Rural Municipality of Springfield",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R3X 1Z6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7561603",
+        "49.9730333",
+        "-97.1236226",
+        "-96.9549948"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.750414,
+    "lon": -97.117979,
+    "address": {
+      "place_id": 345668840,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 159619442,
+      "lat": "49.7496751",
+      "lon": "-97.1172059",
+      "class": "highway",
+      "type": "secondary",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Provincial Road 200",
+      "display_name": "Provincial Road 200, St. Vital Perimeter South, St. Norbert - Seine River, Winnipeg, Rural Municipality of Ritchot, Manitoba, Canada",
+      "address": {
+        "road": "Provincial Road 200",
+        "suburb": "St. Vital Perimeter South",
+        "city_district": "St. Norbert - Seine River",
+        "city": "Winnipeg",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.6972904",
+        "49.7559281",
+        "-97.1231118",
+        "-97.0901498"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.95507,
+    "lon": -97.276729,
+    "address": {
+      "place_id": 348279905,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 32528578,
+      "lat": "49.9555519",
+      "lon": "-97.2764122",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.053388335240711036,
+      "addresstype": "road",
+      "name": "Prairie Dog Trail",
+      "display_name": "Prairie Dog Trail, Rural Municipality of Rosser, Manitoba, R0H 1E0, Canada",
+      "address": {
+        "road": "Prairie Dog Trail",
+        "county": "Rural Municipality of Rosser",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R0H 1E0",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9466438",
+        "49.9811254",
+        "-97.3163887",
+        "-97.2628860"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.786206,
+    "lon": -97.322045,
+    "address": {
+      "place_id": 347646363,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 146244552,
+      "lat": "49.7862062",
+      "lon": "-97.3223630",
+      "class": "highway",
+      "type": "track",
+      "place_rank": 26,
+      "importance": 0.05337620126649878,
+      "addresstype": "road",
+      "name": "MacDonald Road",
+      "display_name": "MacDonald Road, Oak Bluff, Rural Municipality of Macdonald, Manitoba, R4G 0B2, Canada",
+      "address": {
+        "road": "MacDonald Road",
+        "village": "Oak Bluff",
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4G 0B2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7831893",
+        "49.7875289",
+        "-97.3223954",
+        "-97.3211193"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.776923,
+    "lon": -97.039803,
+    "address": {
+      "place_id": 346069607,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 166748876,
+      "lat": "49.7769558",
+      "lon": "-97.0394549",
+      "class": "highway",
+      "type": "residential",
+      "place_rank": 26,
+      "importance": 0.05337700846875712,
+      "addresstype": "road",
+      "name": "Beauchemin Road",
+      "display_name": "Beauchemin Road, Grande Pointe, Rural Municipality of Ritchot, Manitoba, R2N 0A3, Canada",
+      "address": {
+        "road": "Beauchemin Road",
+        "village": "Grande Pointe",
+        "county": "Rural Municipality of Ritchot",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2N 0A3",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7769558",
+        "49.7828492",
+        "-97.0394549",
+        "-97.0392623"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.749203,
+    "lon": -97.337179,
+    "address": {
+      "place_id": 347379676,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 145617485,
+      "lat": "49.7536496",
+      "lon": "-97.3371652",
+      "class": "highway",
+      "type": "unclassified",
+      "place_rank": 26,
+      "importance": 0.05337620126649878,
+      "addresstype": "road",
+      "name": "",
+      "display_name": "Rural Municipality of Macdonald, Manitoba, R4G 0B2, Canada",
+      "address": {
+        "county": "Rural Municipality of Macdonald",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R4G 0B2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.7536036",
+        "49.7536691",
+        "-97.3434308",
+        "-97.3223581"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.838795,
+    "lon": -97.093521,
+    "address": {
+      "place_id": 416839406,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 131429557,
+      "lat": "49.8391065",
+      "lon": "-97.0939549",
+      "class": "amenity",
+      "type": "veterinary",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "amenity",
+      "name": "WinRose Animal Hospital",
+      "display_name": "WinRose Animal Hospital, 534, Saint Anne's Road, Worthington, St. Vital, Winnipeg, Manitoba, R2M 5S1, Canada",
+      "address": {
+        "amenity": "WinRose Animal Hospital",
+        "house_number": "534",
+        "road": "Saint Anne's Road",
+        "suburb": "Worthington",
+        "city_district": "St. Vital",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2M 5S1",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8389895",
+        "49.8392928",
+        "-97.0941093",
+        "-97.0938196"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.917865,
+    "lon": -97.147557,
+    "address": {
+      "place_id": 393781031,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1327695411,
+      "lat": "49.9180587",
+      "lon": "-97.1475700",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "586, Manitoba Avenue, William Whyte, Mynarski, Winnipeg, Manitoba, R2X 2Y6, Canada",
+      "address": {
+        "house_number": "586",
+        "road": "Manitoba Avenue",
+        "neighbourhood": "William Whyte",
+        "suburb": "Mynarski",
+        "city_district": "Mynarski",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2X 2Y6",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9179606",
+        "49.9181568",
+        "-97.1476860",
+        "-97.1474539"
+      ]
+    },
+    "predicted_area_type": "business"
+  },
+  {
+    "lat": 49.820015,
+    "lon": -97.135224,
+    "address": {
+      "place_id": 404539440,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1001880457,
+      "lat": "49.8201160",
+      "lon": "-97.1352291",
+      "class": "building",
+      "type": "detached",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "42, St. Germain Street, Minnetonka, St. Vital, Winnipeg, Manitoba, R2M 4P2, Canada",
+      "address": {
+        "house_number": "42",
+        "road": "St. Germain Street",
+        "neighbourhood": "Minnetonka",
+        "suburb": "Minnetonka",
+        "city_district": "St. Vital",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2M 4P2",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.8200470",
+        "49.8202040",
+        "-97.1353760",
+        "-97.1350820"
+      ]
+    },
+    "predicted_area_type": "residential"
+  },
+  {
+    "lat": 49.931405,
+    "lon": -97.142327,
+    "address": {
+      "place_id": 389936526,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1333892662,
+      "lat": "49.9313461",
+      "lon": "-97.1423583",
+      "class": "building",
+      "type": "house",
+      "place_rank": 30,
+      "importance": 7.238651102459781e-05,
+      "addresstype": "building",
+      "name": "",
+      "display_name": "623, Atlantic Avenue, Inkster–Faraday, Mynarski, Winnipeg, Manitoba, R2W 5B9, Canada",
+      "address": {
+        "house_number": "623",
+        "road": "Atlantic Avenue",
+        "neighbourhood": "Inkster–Faraday",
+        "suburb": "Mynarski",
+        "city_district": "Mynarski",
+        "city": "Winnipeg",
+        "state": "Manitoba",
+        "ISO3166-2-lvl4": "CA-MB",
+        "postcode": "R2W 5B9",
+        "country": "Canada",
+        "country_code": "ca"
+      },
+      "boundingbox": [
+        "49.9312721",
+        "49.9314200",
+        "-97.1424471",
+        "-97.1422694"
+      ]
+    },
+    "predicted_area_type": "business"
+  }
+]
